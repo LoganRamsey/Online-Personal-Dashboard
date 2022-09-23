@@ -27,7 +27,7 @@ idna==2.8
 jellyfish==0.6.1
 oauthlib==3.1.0
 pip-licenses==2.1.1
-protobuf==3.11.3
+protobuf==3.18.3
 psycopg2==2.8.4
 PTable==0.9.2
 pyasn1==0.4.8
